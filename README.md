@@ -3,11 +3,11 @@
 
 
 
-- `rm -rf EX-FUCK`
+- `rm -rf FUCK`
 
-- `git clone https://github.com/EX-OFFICIAL/EX-FUCK`
+- `git clone https://github.com/EX-OFFICIAL/FUCK`
 
-- `cd EX-FUCK`
+- `cd FUCK`
 
 - `chmod +x *`
 
